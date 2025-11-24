@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23712341/README.md)
+
 ## Algunos detalles sobre cómo resolví la tarea
 
 - Cada ejercicio está resuelto en un par de archivos:
