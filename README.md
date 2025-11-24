@@ -5,10 +5,6 @@
   - un archivo de **R** (con el código), y
   - un archivo **PDF** (con las explicaciones).
 
-- El **Ejercicio 4** está dividido en **dos pares de archivos** separados:
-  - En el primer par aparecen los incisos **a–f**.
-  - En el segundo par aparecen los incisos **g–l** y, en ese mismo par, también está resuelto el **Ejercicio 5**.
-
 - La solución de la tarea está principalmente en el **archivo de R**, pero cada inciso tiene una explicación detallada en el **PDF**.
 
 - En el archivo de R, al final de cada inciso aparece un texto que dice:
